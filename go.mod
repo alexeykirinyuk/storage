@@ -1,4 +1,4 @@
-module github.com/alexeykirinyuk/storage
+module github.com/alexeykirinyuk/storage/v2
 
 go 1.18
 
